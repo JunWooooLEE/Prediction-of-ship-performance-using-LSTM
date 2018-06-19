@@ -1,4 +1,4 @@
-# Term_Project
+# LSTM을 활용한 선박 성능의 예측
 Lecture_Term_Project_GIT
 
 1. 프로젝트 개요
